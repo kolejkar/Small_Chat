@@ -1,0 +1,16 @@
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.csprojAssemblyReference.cache
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.Properties.Resources.resources
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.csproj.GenerateResource.cache
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.csproj.CoreCompileInputs.cache
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.exe
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.pdb
+C:\Users\Karol\Desktop\ChatGUI.exe.config
+C:\Users\Karol\Desktop\ChatGUI.exe
+C:\Users\Karol\Desktop\ChatGUI.pdb
+D:\source\repos\ChatGUI\ChatGUI\obj\Debug\ChatGUI.main.resources
+D:\source\repos\ChatGUI\ChatGUI\ChatGUI.exe.config
+D:\source\repos\ChatGUI\ChatGUI\ChatGUI.exe
+D:\source\repos\ChatGUI\ChatGUI\ChatGUI.pdb
+D:\source\repos\ChatGUI\ChatGUI\chat\ChatGUI.exe.config
+D:\source\repos\ChatGUI\ChatGUI\chat\ChatGUI.exe
+D:\source\repos\ChatGUI\ChatGUI\chat\ChatGUI.pdb
